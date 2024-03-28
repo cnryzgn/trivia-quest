@@ -1,0 +1,12 @@
+@import url('Home.css');
+@import url('Question.css');
+@import url('Loading.css');
+@import url('ScrollButton.css');
+@import url('Result.css');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
